@@ -1,5 +1,5 @@
 
-# ISO XR Device Automation with Excel Input
+# ISO XR Device Automation with Data-Driven test
 # Overview
 This code  automates the interaction with an XR  device using data sourced from an Excel spreadsheet. By leveraging Python and relevant libraries, this automation streamlines the process of controlling the XR device based on predefined parameters stored in the Excel file.
 # Features
